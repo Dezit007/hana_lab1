@@ -12,6 +12,7 @@ public static void main(String[] args){
 	in.resize(400, 400);
 	in.setVisible(true);
 	in.setForeground(Color.black);
+	//Vova//
 	
 	in.setFont(font);
 	}
